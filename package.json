@@ -1,0 +1,15 @@
+{
+  "name": "crayonz",
+  "version": "1.0.3",
+  "description": "Change colour and formatting of text in the cli.",
+  "main": "crayonz.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli","color","colour","terminal","node","nodejs","npm"],
+  "author": "Ashay Mandwarya",
+  "license": "ISC"
+}
